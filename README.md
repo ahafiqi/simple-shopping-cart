@@ -4,3 +4,4 @@ Objection : Create a React application for a simple shopping cart. The app shoul
 # Tech Stack
 - Vite
 - React Typecript
+- State Management : Hooks, Custom Hooks, Context API
